@@ -60,4 +60,4 @@ Short description of what the project does and the technologies used.
 
 
 ### Tools & Technologies
-<div> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&or=white" width="50" height="50" alt="Git Logo"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-theo=github&logoColor=white" width="50" height="50" alt="GitHub Logo"> <img src="https://images.seeklogo.com/logo-png/32/1/visual-studio-code-logo-png_seeklogo-323431.png" width="50" height="50" alt="VS Code Logo"> </div>
+<div> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&or=white" width="50" height="50" alt="Git Logo"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-theo=github&logoColor=white" width="50" height="50" alt="GitHub Logo"> <img src="https://images.seeklogo.com/logo-png/32/1/visual-studio-code-logo-png_seeklogo-323431.png" width="50" height="50" alt="VS Code Logo"> <img src="https://images.seeklogo.com/logo-png/44/1/postman-api-platform-logo-png_seeklogo-446859.png" width="50" height="50" alt="Postman Logo"></div>
