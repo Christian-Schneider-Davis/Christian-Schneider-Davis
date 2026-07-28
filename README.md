@@ -24,7 +24,7 @@ I'm a Software Development student and aspiring Full-Stack Developer who enjoys 
 
 ### Front-End
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=oColor=white" width="100" height="100" alt="HTML Logo">
-<img src="(https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logogoColor=white" width="100" height="100" alt="CSS3 Logo">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logogoColor=white" width="100" height="100" alt="CSS3 Logo">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&k" width=”100” height=”100” alt="JavaScript Logo">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&=61DAFB" width="100" height="100" alt="React Logo">
 <img src="https://github.com/user-attachments/assets/5e433135-dba1-4056-8e02-7a72c4c2bc79" width="100" height="100" alt="SQL Logo">
@@ -63,7 +63,7 @@ Short description of what the project does and the technologies used.
 
 ## Let's Connect
 
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/christian-schneider-davis">My Profile</a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/christian-schneider-davis">Me :)</a>
 - 📫 Open to junior developer opportunities and collaborations
 
 ---
