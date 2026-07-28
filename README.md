@@ -1,12 +1,12 @@
 # Hey, I'm Christian 👋
 
-I'm a Software Development student and aspiring Full-Stack Developer who enjoys building clean, responsive, and user-friendly web applications. I love taking ideas from concept to reality, solving problems with code, and continuously learning new technologies along the way.
+<p>I'm a Software Development student and aspiring Full-Stack Developer who enjoys building clean, responsive, and user-friendly web applications. I love taking ideas from concept to reality, solving problems with code, and continuously learning new technologies along the way.</p>
 
-🌱 Always learning  
-💻 Always building  
-🚀 Actively looking for Junior Front-End/Full-Stack Developer and UI/UX Design roles
-📚 Continuously learning modern web technologies
-🤝 Excited to collaborate on meaningful projects
+<p>🌱 Always learning</p>
+<p>💻 Always building</p>
+<p>🚀 Actively looking for Junior Front-End/Full-Stack Developer and UI/UX Design roles</p>
+<p>📚 Continuously learning modern web technologies </p>
+<p>🤝 Excited to collaborate on meaningful projects </p>
 
 ---
 
