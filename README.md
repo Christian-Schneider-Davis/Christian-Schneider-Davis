@@ -23,19 +23,19 @@ I'm a Software Development student and aspiring Full-Stack Developer who enjoys 
 ## Tech Stack
 
 ### Front-End
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=oColor=white" width="100" height="100" alt="HTML Logo">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logogoColor=white" width="100" height="100" alt="CSS3 Logo">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&k" width=”100” height=”100” alt="JavaScript Logo">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&=61DAFB" width="100" height="100" alt="React Logo">
-<img src="https://github.com/user-attachments/assets/5e433135-dba1-4056-8e02-7a72c4c2bc79" width="100" height="100" alt="SQL Logo">
-<img src="https://github.com/user-attachments/assets/5802f6fe-cee9-4b06-986d-6f79c7ded317" width="100" height="100" alt="TypeScript Logo">
+<div> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=oColor=white" width="100" height="100" alt="HTML Logo"> </div>
+<div> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logogoColor=white" width="100" height="100" alt="CSS3 Logo"> </div>
+<div> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&k" width=”100” height=”100” alt="JavaScript Logo"> </div>
+<div> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&=61DAFB" width="100" height="100" alt="React Logo"> </div>
+<div> <img src="https://github.com/user-attachments/assets/5e433135-dba1-4056-8e02-7a72c4c2bc79" width="100" height="100" alt="SQL Logo"> </div>
+<div> <img src="https://github.com/user-attachments/assets/5802f6fe-cee9-4b06-986d-6f79c7ded317" width="100" height="100" alt="TypeScript Logo"> </div>
 
 
 
 ### Tools & Technologies
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&or=white" width="100" height="100" alt="Git Logo">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-theo=github&logoColor=white" width="100" height="100" alt="GitHub Logo">
-<img src="https://images.seeklogo.com/logo-png/32/1/visual-studio-code-logo-png_seeklogo-323431.png" width="100" height="100" alt="VS Code Logo" >
+<div> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&or=white" width="100" height="100" alt="Git Logo"> </div>
+<div> <img src="https://img.shields.io/badge/GitHub-181717?style=for-theo=github&logoColor=white" width="100" height="100" alt="GitHub Logo"> </div>
+<div> <img src="https://images.seeklogo.com/logo-png/32/1/visual-studio-code-logo-png_seeklogo-323431.png" width="100" height="100" alt="VS Code Logo"> </div>
 
 ---
 
