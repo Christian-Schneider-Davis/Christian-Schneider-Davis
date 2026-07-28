@@ -43,7 +43,7 @@ Short description of what the project does and the technologies used.
 
 ---
 
-- "Every expert was once a beginner. I'm committed to learning, building, and improving every day."
+^ "Every expert was once a beginner. I'm committed to learning, building, and improving every day."
 
 ---
 
