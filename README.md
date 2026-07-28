@@ -23,19 +23,19 @@ I'm a Software Development student and aspiring Full-Stack Developer who enjoys 
 ## Tech Stack
 
 ### Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=oColor=white
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logogoColor=white
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&k
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&=61DAFB
-![SQL](https://github.com/user-attachments/assets/5e433135-dba1-4056-8e02-7a72c4c2bc79
-![TypeScript](https://github.com/user-attachments/assets/5802f6fe-cee9-4b06-986d-6f79c7ded317
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=oColor=white" alt="HTML Logo">
+<img src="(https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logogoColor=white" alt="CSS3 Logo">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&k" alt="JavaScript Logo">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&=61DAFB" alt="React Logo">
+<img src="https://github.com/user-attachments/assets/5e433135-dba1-4056-8e02-7a72c4c2bc79" alt="SQL Logo">
+<img src="https://github.com/user-attachments/assets/5802f6fe-cee9-4b06-986d-6f79c7ded317" alt="TypeScript Logo">
 
 
 
 ### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&or=white
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-theo=github&logoColor=white
-![VS Code](https://img.shields.io/badge7ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&or=white" alt="Git Logo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-theo=github&logoColor=white" alt="GitHub Logo">
+<img src="https://img.shields.io/badge7ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Logo">
 
 ---
 
@@ -63,7 +63,7 @@ Short description of what the project does and the technologies used.
 
 ## Let's Connect
 
-- 💼 LinkedIn: www.linkedin.com/in/christian-schneider-davis
+- 💼 LinkedIn: https://www.linkedin.com/in/christian-schneider-davis
 - 📫 Open to junior developer opportunities and collaborations
 
 ---
