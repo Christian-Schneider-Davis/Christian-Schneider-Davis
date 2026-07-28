@@ -2,7 +2,6 @@
 
 <p>🌱 Always learning</p>
 <p>💻 Always building</p>
-<p>🚀 Actively looking for Junior Front-End/Full-Stack Developer and UI/UX Design roles</p>
 <p>📚 Continuously learning modern web technologies </p>
 <p>🤝 Excited to collaborate on meaningful projects </p>
 
@@ -33,7 +32,7 @@ Short description of what the project does and the technologies used.
 
 ## 🎯 Goal
 
--  Land my first developer role and contribute to a great team
+🚀 Land my first developer (Junior Front-End/Full-Stack Developer or UI/UX Design) role and contribute to a great team
 
 ---
 
