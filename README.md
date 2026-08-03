@@ -1,6 +1,6 @@
 # Hey, I'm Christian 👋
 
-<p>🌱 Always learning</p>
+<p>🌱 Always growing & improving</p
 <p>💻 Always building</p>
 <p>📚 Continuously learning modern web technologies </p>
 <p>🤝 Excited to collaborate on meaningful projects </p>
