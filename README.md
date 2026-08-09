@@ -55,3 +55,28 @@ Short description of what the project does and the technologies used.
 ### Tools & Technologies
 <div><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&or=white" width="50" height="50" alt="Git Logo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-theo=github&logoColor=white" width="50" height="50" alt="GitHub Logo"><img src="https://images.seeklogo.com/logo-png/32/1/visual-studio-code-logo-png_seeklogo-323431.png" width="50" height="50" alt="VS Code Logo"><img src="https://images.seeklogo.com/logo-png/44/1/postman-api-platform-logo-png_seeklogo-446859.png" width="50" height="50" alt="Postman Logo"><img src="https://docs.dokploy.com/_next/image?url=https%3A%2F%2Ftemplates.dokploy.com%2Fblueprints%2Fpgadmin%2Fpgadmin.webp&w=1080&q=75" width="50" height="50" alt="Postman Logo"><img src="https://images.seeklogo.com/logo-png/31/1/postgresql-logo-png_seeklogo-313278.png" width="50" height="50" alt="PgAdmin Logo"><img src="https://images.seeklogo.com/logo-png/34/1/code-sandbox-logo-png_seeklogo-349463.png" width="50" height="50" alt="CodeSandbox.io Logo"><img src="https://babeljs.io/img/babel.svg" width="50" height="50" alt="Babel Logo"></div>
 
+## Education
+  
+<h3>The App Brewery</h3>
+<p>London, UK (Remote Student)</p>
+Full Stack Software Development, Computer Technology/Computer Systems Technology
+<p>2025 – 2026</p>
+
+<h3>The Complete Full-Stack Web Development Bootcamp w/ Dr. Angela Yu</h3>
+<p>New York City, USA (Remote Student)</p>
+Developer and Lead Instructor
+<p>2025 - 2026</p>
+
+<h3>Asap Front-End Full Program</h3>
+<p>Barcelona, Spain (Remote Student)</p>
+Frontend Development Course Specifically Geared Towards Landing Employment In 2026 
+<p>2026</p>
+
+<h3>BloomTech (Previously Lambda School of Technology)</h3>
+<p>New York City, USA</p>
+Online Technical Training Program, Full Stack Web Development
+<p>2020 – 2021</p>
+
+
+  
+
