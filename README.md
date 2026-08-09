@@ -48,7 +48,12 @@ Short description of what the project does and the technologies used.
 ---
 
 ## Education
-  
+
+  * BloomTech (Previously Lambda School of Technology)
+<p>New York City, USA</p>
+Online Technical Training Program In Full Stack Web Development 
+<p>2020 – 2021</p>
+
 * The App Brewery
 <p>London, UK (Remote Student)</p>
 Full Stack Software Development, Computer Technology/Computer Systems Technology
@@ -63,11 +68,6 @@ Full Stack Software Development w/ Udemy
 <p>Barcelona, Spain (Remote Student)</p>
 Frontend Development Course Specifically Geared Towards Landing Employment In 2026 
 <p>2026</p>
-
-* BloomTech (Previously Lambda School of Technology)
-<p>New York City, USA</p>
-Online Technical Training Program In Full Stack Web Development 
-<p>2020 – 2021</p>
 
 ## Tech Stack
 
