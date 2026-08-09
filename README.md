@@ -49,22 +49,22 @@ Short description of what the project does and the technologies used.
 
 ## Education
   
-<h3>The App Brewery</h3>
+* The App Brewery
 <p>London, UK (Remote Student)</p>
 Full Stack Software Development, Computer Technology/Computer Systems Technology
 <p>2025 – 2026</p>
 
-<h3>The Complete Full-Stack Web Development Bootcamp w/ Dr. Angela Yu</h3>
+* The Complete Full-Stack Web Development Bootcamp w/ Dr. Angela Yu
 <p>New York City, USA (Remote Student)</p>
 Full Stack Software Development w/ Udemy
 <p>2025 - 2026</p>
 
-<h3>A.S.A.P. Front-End Full Program</h3>
+* A.S.A.P. Front-End Full Program
 <p>Barcelona, Spain (Remote Student)</p>
 Frontend Development Course Specifically Geared Towards Landing Employment In 2026 
 <p>2026</p>
 
-<h3>BloomTech (Previously Lambda School of Technology)</h3>
+* BloomTech (Previously Lambda School of Technology)
 <p>New York City, USA</p>
 Online Technical Training Program In Full Stack Web Development 
 <p>2020 – 2021</p>
