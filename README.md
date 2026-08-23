@@ -7,12 +7,12 @@
 
 ---
 
-## What I'm Working On
+## What I'm Currently Working On
 
-- Building responsive web applications
+- Prepping for the official launch of my app on the IOS Apple Store mid Sept. 2026
+- Building a responsive web application for a client (local barbershop)
+- Forever improving my personal portfolio site(s)
 - Strengthening my React and JavaScript skills
-- Expanding into full-stack development
-- Growing a portfolio that demonstrates real-world problem solving
   
 <!---
 
