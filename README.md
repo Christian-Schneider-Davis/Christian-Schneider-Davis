@@ -38,7 +38,8 @@ Short description of what the project does and the technologies used.
 
 ## Let's Connect
 
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/christian-schneider-davis">Me :)</a>
+- 💼 <a href="https://www.linkedin.com/in/christian-schneider-davis">My LinkedIn </a>
+- 💡 <a href="https://christian-schneider-davis.github.io/Christian-Schneider-Davis-Web-Dev-Portfolio">My Portfolio</a>
 - 📫 Open to junior developer opportunities and collaborations
 
 ---
