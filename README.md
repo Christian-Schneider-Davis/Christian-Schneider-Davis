@@ -9,7 +9,7 @@
 
 ## What I'm Currently Working On
 
-- Prepping for the official launch of my app on the IOS Apple Store mid Sept. 2026
+- Prepping for the official launch of my app early Oct 2026
 - Building a responsive web application for a client (local barbershop)
 - Forever improving my personal portfolio site(s)
 - Strengthening my React and JavaScript skills
@@ -39,7 +39,7 @@ Short description of what the project does and the technologies used.
 ## Let's Connect
 
 - 💼 <a href="https://www.linkedin.com/in/christian-schneider-davis">My LinkedIn </a>
-- 💡 <a href="https://christian-schneider-davis.github.io/Christian-Schneider-Davis-Web-Dev-Portfolio">My Portfolio</a>
+- 💡 <a href="https://www.christianschneiderdavis.com">My Portfolio</a>
 - 📫 Open to junior developer opportunities and collaborations
 
 ---
