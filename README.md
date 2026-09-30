@@ -9,8 +9,9 @@
 
 ## What I'm Currently Working On
 
-- Prepping for the official launch of my app early Oct 2026
-- Building a responsive web application for a client (local barbershop)
+- Prepping for the official launch of my app (EpicMouse.app) early Oct 2026 ✅
+- Building a responsive web application for a client ✅
+- Building a responsive tech demo for promo
 - Forever improving my personal portfolio site(s)
 - Strengthening my React and JavaScript skills
   
