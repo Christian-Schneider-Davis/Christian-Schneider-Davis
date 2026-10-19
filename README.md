@@ -11,7 +11,8 @@
 
 - Prepping for the official launch of my app (EpicMouse.app) early Oct 2026 ✅
 - Building a responsive web application for a client ✅
-- Building a responsive tech demo for promo
+- Building a responsive tech demo for promo ✅
+- Building a gamified fitness companion app for release mid Nov 2026
 - Forever improving my personal portfolio site(s)
 - Strengthening my React and JavaScript skills
   
