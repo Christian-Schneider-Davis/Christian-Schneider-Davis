@@ -13,7 +13,7 @@
   <tr>
     <td width="45%">
       <a href="https://www.epicmouse.app" target="_blank">
-        <img src="assets/epicmouse-preview.png" alt="Epic Mouse App preview" width="100%" />
+        <img width="795" height="497" alt="epicmouse-preview" src="https://github.com/user-attachments/assets/92dbdbb2-4c18-4852-ad10-c44693e77cd0" />
       </a>
     </td>
     <td width="55%" valign="top">
