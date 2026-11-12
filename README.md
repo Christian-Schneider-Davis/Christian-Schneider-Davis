@@ -7,9 +7,47 @@
 
 ---
 
+## 🪶 Completed Projects
+
+<table>
+  <tr>
+    <td width="45%">
+      <a href="https://www.epicmouse.app" target="_blank">
+        <img src="assets/epicmouse-preview.png" alt="Epic Mouse App preview" width="100%" />
+      </a>
+    </td>
+    <td width="55%" valign="top">
+      <h3>🐭 Epic Mouse App</h3>
+      <p>
+        A writing companion app built to keep writers with ADHD engaged — every sentence grows a tiny
+        magical mouse who's rooting for you, one word at a time.
+      </p>
+      <ul>
+        <li>Solo-built from scratch: React (Vite), Firebase Auth/Firestore, and a hand-coded marketing site</li>
+        <li>Grew to <b>50 weekly recurring users</b> at its peak</li>
+        <li>Hand-drew all character illustrations, then AI-enhanced and animated them for a distinctive feel</li>
+        <li>Shipped 100+ commits with GitHub Actions CI for automated builds</li>
+      </ul>
+      <p>
+        <a href="https://www.epicmouse.app"><img src="https://img.shields.io/badge/Live_Site-ff6f5e?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+        <a href="https://github.com/Christian-Schneider-Davis/epicmouse.app"><img src="https://img.shields.io/badge/Landing_Page_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/Christian-Schneider-Davis/Epic-Mouse-Writing-Buddy"><img src="https://img.shields.io/badge/Writing_App_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
 ## What I'm Currently Working On
 
-- Prepping for the official launch of my app (EpicMouse.app) early Oct 2026 ✅
 - Building a responsive web application for a client ✅
 - Building a responsive tech demo for promo ✅
 - Building a gamified fitness companion app for release mid Nov 2026
